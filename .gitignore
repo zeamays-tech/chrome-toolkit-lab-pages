@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# GitHub Pages / Jekyll build output
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+.bundle/
+vendor/
+
+# Local logs and temporary files
+*.log
+*.tmp
